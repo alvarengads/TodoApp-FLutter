@@ -1,6 +1,6 @@
-# flutter_app
+# Aplicativo Todo App feito no curso balta io
 
-A new Flutter application.
+Todo App
 
 ## Getting Started
 
